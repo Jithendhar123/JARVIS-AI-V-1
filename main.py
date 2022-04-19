@@ -30,8 +30,8 @@ def take_Code():
                 talk(command)
                 print(command)
             #else:
-            #talk("Sorry,Idon'tunderstandyourrequestpleasetryagain")
-            #print("Sorry,Idon'tunderstandyourrequestpleasetryagain")
+            #talk("Sorry, I don't understand your request please try again")
+            #print("Sorry, I don't understand your request please try again")
     except:
         pass
     return command
